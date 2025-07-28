@@ -1,7 +1,7 @@
-import requests 
+import requests
 import time 
 import colorama
-from colorama import Fore, Back ,Style
+from colorama import Fore, Back ,Style 
 import os
 
 os.system("clear")
@@ -159,6 +159,19988 @@ data = {
 }
 whisper=requests.post(url,data=data)
 print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+data = {
+'crt-url' : fb,
+'cf_age':"less than 9 years",
+'submit':'submit'
+}
+whisper=requests.post(url,data=data)
+print('[+]report done....')
+
 
 data = {
 'crt-url' : fb,
